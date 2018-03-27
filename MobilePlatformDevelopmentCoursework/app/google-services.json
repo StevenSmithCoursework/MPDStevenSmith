@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1071116177709",
+    "firebase_url": "https://testproject-f3609.firebaseio.com",
+    "project_id": "testproject-f3609",
+    "storage_bucket": "testproject-f3609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071116177709:android:d9ee10b52359f98f",
+        "android_client_info": {
+          "package_name": "mpdproject.gcu.me.org.mobileplatformdevelopmentcoursework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071116177709-co40b1n1ivno74l0nh199h3see4906tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcnBtNhPNFeBz5iWeNC0rQzj8AeMzXLVg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
